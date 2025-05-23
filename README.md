@@ -1,1 +1,1 @@
-# Brian-utsc.github.io
+# brian-utsc.github.io
